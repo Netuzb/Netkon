@@ -47,7 +47,7 @@ if($text=="/support"){
 bot('SendMessage', [
 
 'chat_id'=>$chatid,
-'text'=>"Бот администратори @netuzb'га мурожаат қилинг!",
+'text'=>"👀 Бот администратори @netuzb'га мурожаат қилинг!",
 'disable_web_page_preview'=>'true',
 'reply_to_message_id'=>$mids,
 'parse_mode'=>"Markdown",
